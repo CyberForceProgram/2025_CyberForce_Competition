@@ -1,1 +1,9 @@
+Website README
 
+obsidian_rift.png and abyssal_pearl.png should be placed into your webserver at /var/www/html/public/img/
+
+The code for the addition of the image files should be placed within /var/www/html/resources/views/livewire/shared/navigation.blade.php
+
+home-bg.jpeg within /img/ should replace the current image in /var/www/html/resources/views/home.blade.php
+
+For more info, https://laravel.com/docs/12.x/blade
